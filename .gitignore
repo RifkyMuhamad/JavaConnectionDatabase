@@ -1,0 +1,5 @@
+# Ignorasi folder output build (biasanya bernama target/)
+target/
+
+# Ignorasi file proyek IntelliJ IDEA
+.idea/

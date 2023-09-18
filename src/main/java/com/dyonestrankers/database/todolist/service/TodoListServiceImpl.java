@@ -27,7 +27,7 @@ public class TodoListServiceImpl implements TodoListService{
         Todolist todolist = new Todolist(todo);
         todoListRepository.add(todolist);
         System.out.println();
-        System.out.println("SUKSES MENAMBAH TODO : " + todo);
+        System.out.println("SUCCESS ADD TODO : " + todo);
         System.out.println();
     }
 
@@ -36,11 +36,11 @@ public class TodoListServiceImpl implements TodoListService{
         boolean success = todoListRepository.remove(number);
         if (success) {
             System.out.println();
-            System.out.println("SUKSES MENGHAPUS TODO : " + number);
+            System.out.println("SUCCESS REMOVE TODO : " + number);
             System.out.println();
         } else {
             System.out.println();
-            System.out.println("GAGAL MENGHAPUS TODO : " + number);
+            System.out.println("FAILED REMOVE TODO : " + number);
             System.out.println();
         }
     }

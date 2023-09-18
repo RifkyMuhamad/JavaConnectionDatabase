@@ -54,4 +54,9 @@ In this project, I implemented Java database connection using several dependenci
 ## Build Automation
 
 ### Apache Maven
-[Click](https://github.com/apache/maven) 
+[Click to Apache Github](https://github.com/apache/maven) 
+
+## Contact
+
+- [Instagram - @dyonestrankers](https://instagram.com/dyonestrankers?igshid=OGQ5ZDc2ODk2ZA==)
+- [Linkedin - Rifky Muhamad Nur Fadillah](https://www.linkedin.com/in/rifky-muhamad-nur-fadillah-2059b523a/)
